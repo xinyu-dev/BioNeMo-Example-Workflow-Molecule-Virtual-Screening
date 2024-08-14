@@ -1,10 +1,12 @@
 name: workshop
 channels:
   - conda-forge
+  - bioconda
   - defaults
 dependencies:
   - python=3.11
   - pymol-open-source
+  - reduce
   - pip
   - pip:
       - biopython

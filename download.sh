@@ -27,4 +27,10 @@ echo "Downloading weights and models for DiffDock"
 ngc registry model download-version "nvidia/nim/bionemo-diffdock:molecular-docking_noarchx1_fp32_24.03.04"
 echo "Downloaded weights and models for DiffDock"
 
+
+echo "Installing some additional Ubuntu packages"
+sudo apt-get update
+sudo apt-get install -y openbabel
+echo "Installed openbabel"
+
 echo "All Done!"
