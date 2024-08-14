@@ -1,4 +1,4 @@
-# BioNeMo Example Workflow for Molecule HTS
+# BioNeMo Example Workflow for Molecule Virtual Screening
 
 Example workflow of small molecule virtual screening using BioNeMo containers. 
 
