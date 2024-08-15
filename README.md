@@ -1,6 +1,9 @@
 # BioNeMo Example Workflow for Molecule Virtual Screening
 
-Example workflow of small molecule virtual screening using BioNeMo containers. 
+Example workflow of small molecule virtual screening using BioNeMo NIMs 
+
+
+![BioNeMo](./images/workflow.png)
 
 Workshop environment is **SageMaker** but instructions for **EC2** are also availalbe.
 
